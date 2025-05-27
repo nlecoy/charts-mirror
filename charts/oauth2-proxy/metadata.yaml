@@ -1,0 +1,4 @@
+---
+registry: https://oauth2-proxy.github.io/manifests
+name: oauth2-proxy
+version: 7.12.14
