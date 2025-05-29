@@ -1,0 +1,4 @@
+---
+registry: https://docs.altinity.com/clickhouse-operator
+name: altinity-clickhouse-operator
+version: 0.25.0
